@@ -28,7 +28,7 @@
      "longDescription": "Google Cloud Platform に VMを払出します。Linux は4つのディストリビューション、リソース構成は５つの設定から選ぶことができます。2020年度社内IT標準ガイドに準拠しています。",
      "bullets": [
       {
-        "title": "Clouds",
+        "title": "クラウド",
         "description": "Google Cloud"
       },
       {
@@ -36,17 +36,17 @@
         "description": "1.0<br>"
       },
       {
-        "title": "Default Operating System",
-        "description": "Ubuntu 16.04"
+        "title": "オペレーティング・システム",
+        "description": "Ubuntu 16.04（デフォルト）<br>RHEL7<br>Debian 9<br>SLES 12<br>"
       },
       {
-        "title": "Topology",
-        "description": "Single virtual machine"
+        "title": "トポロジー",
+        "description": "単一VM"
       },
       {
-        "title": "Default Virtual Machine settings",
-        "description": "Standard machine type with 1 virtual CPU and 3.75 GB of memory."
-      },
+        "title": "リソース設定",
+        "description": "標準:1 vCPU-3.75GB Memory（デフォルト）"
+      }
       {
         "title": "Usage and special notes",
         "description": "A typical deployment takes < 1 minute"
