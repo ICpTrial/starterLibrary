@@ -46,7 +46,7 @@
       {
         "title": "リソース設定",
         "description": "標準:1 vCPU-3.75GB Memory（デフォルト）"
-      }
+      },
       {
         "title": "Usage and special notes",
         "description": "A typical deployment takes < 1 minute"
