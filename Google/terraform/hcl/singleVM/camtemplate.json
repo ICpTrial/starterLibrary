@@ -1,6 +1,6 @@
 {
    "name": "Google Cloud - VM",
-   "description": "Example template to provision a single virtual machine instance in Google Compute Engine.",
+   "description": "Google Cloud Platform に VMを払出します",
    "version": "1.0",
    "imageUrl": "./assets/svg/IBM_WebSphere_Standalone.svg",
    "image": "tp_WAS_standalone.png",
@@ -25,7 +25,7 @@
    "metadata": {
      "displayName": "Google Cloud - VM",
      "providerDisplayName": "Google Cloud",
-     "longDescription": "Example template to provision a single virtual machine instance in Google Compute Engine.",
+     "longDescription": "Google Cloud Platform に VMを払出します。Linux は4つのディストリビューション、リソース構成は５つの設定から選ぶことができます。2020年度社内IT標準ガイドに準拠しています。",
      "bullets": [
       {
         "title": "Clouds",
