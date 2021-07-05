@@ -25,7 +25,7 @@
    "metadata": {
      "displayName": "Google Cloud - VM",
      "providerDisplayName": "Google Cloud",
-     "longDescription": "Google Cloud Platform に VMを払出します。Linux は4つのディストリビューション、リソース構成は５つの設定から選ぶことができます。2020年度社内IT標準ガイドに準拠しています。",
+     "longDescription": "Google Cloud Platform に VMを払出します。<br>Linux は4つのディストリビューション、リソース構成は５つの設定から選ぶことができます。<br>2020年度社内IT標準ガイドに準拠しています。",
      "bullets": [
       {
         "title": "クラウド",
@@ -45,7 +45,7 @@
       },
       {
         "title": "リソース設定",
-        "description": "標準:1 vCPU-3.75GB Memory（デフォルト）"
+        "description": "標準: 1vCPU-3.75GBMemory（デフォルト）<br>標準: 2vCPU-7.50GBMemory<br>High Memory: 2vCPU-13GBMemory<br>High CPU : 2vCPU-1.8GBMemory<br>High CPU : 4vCPU-3.6GBMemory<br>  "
       },
       {
         "title": "備考",
