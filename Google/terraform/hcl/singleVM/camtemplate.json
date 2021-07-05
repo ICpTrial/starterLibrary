@@ -48,8 +48,8 @@
         "description": "標準:1 vCPU-3.75GB Memory（デフォルト）"
       },
       {
-        "title": "Usage and special notes",
-        "description": "A typical deployment takes < 1 minute"
+        "title": "備考",
+        "description": "典型的デプロイ時間：１分以下"
       }
      ],
      "featuredImageUrl": "https://ibmpatternengine-staticcontent-prod.eu-gb.mybluemix.net/ic_patternengine_50.png",
